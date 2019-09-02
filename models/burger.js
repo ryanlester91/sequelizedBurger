@@ -29,7 +29,6 @@ Burger.associate = models(function() {
       allowNull: true
     }
   });
-};
-
+});
 return Burger;
 };
