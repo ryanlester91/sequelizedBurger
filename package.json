@@ -1,0 +1,28 @@
+{
+  "name": "sequelizedBurger",
+  "version": "1.0.0",
+  "description": "Sequelizing a Burger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanlester91/sequelizedBurger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanlester91/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/ryanlester91/sequelizedBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "method-override": "^3.0.0",
+    "sequelize": "^5.18.0"
+  }
+}
